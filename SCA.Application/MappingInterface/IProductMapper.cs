@@ -1,6 +1,4 @@
-﻿
-
-using SCA.Application.ProductDTOs;
+﻿using SCA.Application.ProductDTOs;
 using SCA.Domain.ProductEntity;
 
 namespace SCA.Application.MappingInterface
